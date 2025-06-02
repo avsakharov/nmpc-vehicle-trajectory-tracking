@@ -13,3 +13,6 @@ To develop a mathematical model of a vehicle and design an autonomous control sy
 - `nmpc_vehicle_trajectory_tracking.py` — main Python script implementing the algorithm
 - `nmpc_vehicle_trajectory_tracking.pdf` — documentation and illustrations
 - `nmpc_vehicle_trajectory_tracking.gif` — visualization of the algorithm in action
+
+## Libraries used
+numpy, scipy, casadi, matplotlib
