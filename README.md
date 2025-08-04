@@ -2,7 +2,9 @@
 
 This project focuses on developing a vehicle control algorithm using **NMPC** (Nonlinear Model Predictive Control) to follow a predefined trajectory.
 
-![Algorithm demonstration](nmpc_vehicle_trajectory_tracking.gif)
+<p align="center">
+  <img src="nmpc_vehicle_trajectory_tracking.gif" alt="NMPC vehicle trajectory tracking" width="600"/>
+</p>
 
 ## Objective
 
